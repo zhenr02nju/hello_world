@@ -1,2 +1,2 @@
 # hello_world
-github first try
+first commit
